@@ -24,7 +24,7 @@ This project is a simple and secure user authentication system built with **Node
 | **jsonwebtoken** | To generate and verify JWT tokens |
 | **cookie-parser** | To parse and manage cookies |
 | **bcryptjs** | For password hashing and comparison |
-
+| **multer** | For DB can read our data |
 ---
 
 * Password Hash 
