@@ -50,3 +50,14 @@ bcrypt.compare(enteredPassword, storedHash); // internally does:
    → extract salt from storedHash
    → hash enteredPassword with extracted salt
    → compare result with storedHash
+
+
+
+Type of Genrative AI
+Text => text
+Text => image
+text => video
+text => audio 
+
+
+image => text
